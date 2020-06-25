@@ -17,5 +17,5 @@ var coordenadas = () => {
 }
 
 btnyes.addEventListener('click', () => {
-    alert('Si me decias que no le diria a tu mama jeje te amo');
+    alert('Si me decias que no le diria a tu mama jeje te amo, si elegiste bien mandame esto jeje "🌹"');
 });
